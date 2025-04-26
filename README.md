@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Hello Everyone, What Do You Wanna Know??
 
 A simple Streamlit app template for you to modify!
 
